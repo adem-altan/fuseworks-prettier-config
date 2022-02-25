@@ -1,0 +1,9 @@
+{
+  "name": "@fuseworks/prettier-config",
+  "version": "0.0.1",
+  "description": "FuseWorks Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:adem-altan/fuseworks-prettier-config.git",
+  "author": "Adem Altan <adem@fuse.work>",
+  "license": "MIT"
+}
